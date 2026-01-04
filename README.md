@@ -11,7 +11,7 @@
 [![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![RAG](https://img.shields.io/badge/Architecture-RAG%20%2B%20Agentic-orange?style=for-the-badge&logo=blueprint&logoColor=white)](#)
 
-- RatneshDeepTutor: AI-Powered Personalized Learning Assistant
+RatneshDeepTutor: AI-Powered Personalized Learning Assistant
 
 </div>
 
