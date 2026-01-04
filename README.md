@@ -44,8 +44,9 @@ RatneshDeepTutor: AI-Powered Personalized Learning Assistant
 
 # 🖥️ Ratnesh DeepTutor (Study Buddy AI) – UI Walkthrough
 
-<img width="723" height="734" alt="image" src="https://github.com/user-attachments/assets/35fd494c-4ed0-4083-8f6c-2026859e9816" />
 <img width="725" height="734" alt="image" src="https://github.com/user-attachments/assets/52bd7ab2-90e0-4ce4-a4ec-639519c9c1e3" />
+<img width="723" height="734" alt="image" src="https://github.com/user-attachments/assets/35fd494c-4ed0-4083-8f6c-2026859e9816" />
+
 
 ---
 
