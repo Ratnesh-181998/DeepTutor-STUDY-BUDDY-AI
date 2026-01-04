@@ -30,6 +30,7 @@
 - ### Smart Solver
 
 <img width="1861" height="954" alt="image" src="https://github.com/user-attachments/assets/f56837f0-bfbc-4ab9-b863-86cc36e5b8c2" />
+<img width="1721" height="791" alt="image" src="https://github.com/user-attachments/assets/35b7a15a-f415-422c-84f3-4b703e7dff7d" />
 
 - ### Guided Learning
 
