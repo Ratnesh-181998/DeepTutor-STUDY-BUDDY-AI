@@ -2,6 +2,7 @@
 - DeepTutor: AI-Powered Personalized Learning Assistant
 - Live Demo Cooming Soon
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/11e902b1-4a91-436a-a188-fc1eb40cda9f" />
+<img width="1358" height="607" alt="image" src="https://github.com/user-attachments/assets/371747f8-5976-4918-88a1-0286604d58bb" />
 
 ---
 
