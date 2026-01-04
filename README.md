@@ -1,5 +1,5 @@
 # RatneshDeepTutor STUDY BUDDY AI
-- DeepTutor: AI-Powered Personalized Learning Assistant
+- RatneshDeepTutor: AI-Powered Personalized Learning Assistant
 - Live Demo Cooming Soon
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/11e902b1-4a91-436a-a188-fc1eb40cda9f" />
 <img width="1855" height="872" alt="image" src="https://github.com/user-attachments/assets/85e91f4c-9a3a-464d-8b51-51cb2b17f4c0" />
