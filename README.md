@@ -102,7 +102,7 @@ RatneshDeepTutor: AI-Powered Personalized Learning Assistant
 
 ---
 
-# 5. CODE [ Back-end (Python with Fast API) | Fornt-end ( Next.Js or Streamlit) | Docker Deployment ]
+# 5. CODE [ Back-end (Python with Fast API) | Fornt-end ( Next.Js or Streamlit For Demo) | Docker Deployment ]
 > **Architecture & Deployment Pipeline**
 
 
