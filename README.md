@@ -101,9 +101,40 @@ RatneshDeepTutor: AI-Powered Personalized Learning Assistant
 # 5. CODE ( Back-end | Fornt-end | Docker Deployment )
 > **Architecture & Deployment Pipeline**
 
-<div align="center">
-<img width="1358" height="607" alt="image" src="https://github.com/user-attachments/assets/371747f8-5976-4918-88a1-0286604d58bb" style="border: 2px solid #444; border-radius: 15px;" />
-</div>
+RatneshDeepTutor/
+├── backend/                # FastAPI Backend Service
+│   ├── config/             # System & Tool configurations (main.yaml)
+│   ├── data/               # Persistent data (User logs, Knowledge Bases)
+│   │   ├── knowledge_bases/# RAG vector stores and raw documents
+│   │   └── user/           # User-specific data and operation logs
+│   ├── src/                # Core Python source code
+│   │   ├── agents/         # AI Agent logic (Solve, Research, Paper Search)
+│   │   ├── api/            # FastAPI Routers & Middleware
+│   │   ├── core/           # Configuration, Logging, and LLM setup
+│   │   ├── knowledge/      # RAG, Document processing, and Indexing
+│   │   └── tools/          # External tools (Web search, Code executor)
+│   └── main.py             # Backend entry point
+│
+├── frontend/               # Next.js Frontend Application
+│   ├── app/                # Next.js App Router (Pages & Layouts)
+│   │   ├── dashboard/      # User activity overview
+│   │   ├── knowledge/      # Knowledge base management
+│   │   ├── research/       # Deep research interface
+│   │   ├── settings/       # UI & System configuration
+│   │   └── solve/          # Smart Solver (Chat) interface
+│   ├── components/         # Reusable React components (Sidebar, UI kits)
+│   ├── lib/                # API helpers and Internationalization (i18n)
+│   ├── public/             # Static assets (Logo, Favicons)
+│   └── styles/             # Tailwind CSS global styles
+│
+├── scripts/                # Utility scripts (Start, Setup, Rebrand)
+├── README.md               # Main project documentation
+
+
+<img width="723" height="734" alt="image" src="https://github.com/user-attachments/assets/35fd494c-4ed0-4083-8f6c-2026859e9816" />
+<img width="725" height="734" alt="image" src="https://github.com/user-attachments/assets/52bd7ab2-90e0-4ce4-a4ec-639519c9c1e3" />
+<img width="1385" height="519" alt="image" src="https://github.com/user-attachments/assets/c6d09feb-02ff-4c20-972f-052b958cdfa6" />
+
 
 ---
 
