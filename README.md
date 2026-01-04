@@ -9,16 +9,16 @@
 ---
 # 1. START SECTION
 
-- 1.1 ### Dashboard
+- ### 1.1 Dashboard
   
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/11e902b1-4a91-436a-a188-fc1eb40cda9f" />
 
 
-- 1.2 ### Knowledge Bases
+- ### 1.2 Knowledge Bases
   
 <img width="1908" height="960" alt="image" src="https://github.com/user-attachments/assets/08f12984-4cc0-4b66-9c46-62a441a58aeb" />
 
-- 1.3 ### Notebooks
+- ### 1.3 Notebooks
   
 <img width="1898" height="929" alt="image" src="https://github.com/user-attachments/assets/b1d4e24e-3077-4941-9da6-b4bb93b6ca89" />
 
@@ -26,17 +26,17 @@
 
 # 2. LEARN SECTION 
 
-- 2.1 ### Question Generator
+- ### 2.1 Question Generator
 
 <img width="1883" height="930" alt="image" src="https://github.com/user-attachments/assets/ec7a17ed-90d5-4551-9a56-6e7ec67a52d6" />
 
-- 2.2 ### Smart Solver
+- ### 2.2 Smart Solver
 
 <img width="1861" height="954" alt="image" src="https://github.com/user-attachments/assets/f56837f0-bfbc-4ab9-b863-86cc36e5b8c2" />
 <img width="1721" height="791" alt="image" src="https://github.com/user-attachments/assets/35b7a15a-f415-422c-84f3-4b703e7dff7d" />
 <img width="1855" height="872" alt="image" src="https://github.com/user-attachments/assets/85e91f4c-9a3a-464d-8b51-51cb2b17f4c0" />
 
-- 2.3 ### Guided Learning
+- ### 2.3 Guided Learning
 
 <img width="1912" height="936" alt="image" src="https://github.com/user-attachments/assets/980f1471-4f5d-4397-860d-c0cc9d36ef44" />
 
@@ -44,15 +44,15 @@
 
 # 3. Research SECTION
 
-- 3.1 ### IdeaGen
+- ### 3.1 IdeaGen
 
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/3afcd760-096d-42e2-84e8-058cb3b1f8b0" />
 
-- 3.2 ### Ready to Research
+- ### 3.2 Ready to Research
 
 <img width="1914" height="933" alt="image" src="https://github.com/user-attachments/assets/f452a1e2-6f2c-4ac4-a198-a9694c625f38" />
 
-- 3.3 ### Co-Writer
+- ###  3.3 Co-Writer
 
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/3416c790-c6a3-49fe-87f9-6afb687077ff" />
 
