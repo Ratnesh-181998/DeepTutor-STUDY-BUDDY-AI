@@ -1,6 +1,6 @@
-# RatneshDeepTutor STUDY BUDDY AI
+# RatneshDeepTutor STUDY BUDDY AI | Live Demo Cooming Soon
 - RatneshDeepTutor: AI-Powered Personalized Learning Assistant
-- Live Demo Cooming Soon
+
   
 ---
 ### *DeepTutor - Intelligent Learning Companion System*
